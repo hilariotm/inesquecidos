@@ -16,5 +16,7 @@ body {
     width: 100px;
     height: 100px;
     background-color: green;
-    margin: 0px;
+    position: relative;
+    top: 800px;
+    left: 10px;
 }
