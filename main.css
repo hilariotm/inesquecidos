@@ -75,7 +75,7 @@ audio {
     height: 25px;
     position: relative;
     top: 50px;
-    left: 630px;
+    left: 626px;
     opacity: 0;
     z-index: 1;
 }
@@ -85,7 +85,7 @@ audio {
     height: 25px;
     position: relative;
     top: 25px;
-    left: 660px;
+    left: 656px;
     opacity: 0;
     z-index: 1;
 }
@@ -95,7 +95,7 @@ audio {
     height: 25px;
     position: relative;
     top: 0px;
-    left: 690px;
+    left: 686px;
     opacity: 0;
     z-index: 1;
 }
