@@ -24,11 +24,11 @@ body {
 }
 
 .forms {
-    width: 150px;
+    width: 200px;
     height: 50px;
     background-color: green;
     position: relative;
-    top: 720px;
-    left: -280px;
+    top: 660px;
+    left: -150px;
     opacity: 50;
 }
