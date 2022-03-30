@@ -20,5 +20,15 @@ body {
     position: relative;
     top: 720px;
     left: -380px;
-    opacity: 0;
+    opacity: 50;
+}
+
+.forms {
+    width: 150px;
+    height: 50px;
+    background-color: green;
+    position: relative;
+    top: 720px;
+    left: -280px;
+    opacity: 50;
 }
