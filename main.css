@@ -17,9 +17,9 @@ body {
     width: 150px;
     height: 50px;
     background-color: green;
-    position: absolute;
-    top: 540px;
-    left: 245px;
+    position: relative;
+    top: -110px;
+    left: -380px;
     opacity: 50;
 }
 
@@ -28,7 +28,7 @@ body {
     height: 50px;
     background-color: green;
     position: absolute;
-    top: 540px;
-    left: 450px;
+    top: -190px;
+    left: -150px;
     opacity: 50;
 }
