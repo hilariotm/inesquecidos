@@ -20,4 +20,5 @@ body {
     position: relative;
     top: 720px;
     left: -380px;
+    opacity: 0;
 }
