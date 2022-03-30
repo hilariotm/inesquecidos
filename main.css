@@ -11,6 +11,7 @@ body {
 #bm {
     width: 1024px;
     z-index: -1;
+    position: absolute;
 }
 
 .insta {
@@ -18,9 +19,10 @@ body {
     height: 50px;
     background-color: green;
     position: relative;
-    top: -130px;
-    left: -380px;
+    top: 590px;
+    left: 50px;
     opacity: 50;
+    z-index: 1;
 }
 
 .forms {
@@ -28,7 +30,8 @@ body {
     height: 50px;
     background-color: green;
     position: relative;
-    top: -190px;
-    left: -150px;
+    top: 540px;
+    left: 260px;
     opacity: 50;
+    z-index: 1;
 }
