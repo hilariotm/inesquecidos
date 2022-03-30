@@ -14,30 +14,88 @@ body {
     position: absolute;
 }
 
-#links {
+#mais {
+    width: 1024px;
+    position: absolute;
+}
+
+#homenagem {
     width: 1024px;
     z-index: 1;
     position: absolute;
 }
 
-.insta {
+audio {
+    position: relative;
+    top: 600px;
+}
+
+#insta {
     width: 150px;
     height: 50px;
-    background-color: green;
     position: relative;
-    top: 590px;
+    top: 502px;
     left: 50px;
-    opacity: 50;
+    opacity: 0;
     z-index: 1;
 }
 
-.forms {
+#forms {
     width: 210px;
     height: 50px;
-    background-color: green;
     position: relative;
-    top: 540px;
+    top: 452px;
     left: 260px;
-    opacity: 50;
+    opacity: 0;
+    z-index: 1;
+}
+
+#info {
+    width: 140px;
+    height: 50px;
+    position: relative;
+    top: 402px;
+    left: 520px;
+    opacity: 0;
+    z-index: 1;
+}
+
+#medo {
+    width: 160px;
+    height: 50px;
+    position: relative;
+    top: 352px;
+    left: 812px;
+    opacity: 0;
+    z-index: 1;
+}
+
+#cita {
+    width: 25px;
+    height: 25px;
+    position: relative;
+    top: 50px;
+    left: 630px;
+    opacity: 0;
+    z-index: 1;
+}
+
+#foto {
+    width: 25px;
+    height: 25px;
+    position: relative;
+    top: 25px;
+    left: 660px;
+    opacity: 0;
+    z-index: 1;
+}
+
+#audio {
+    width: 25px;
+    height: 25px;
+    position: relative;
+    top: 0px;
+    left: 690px;
+    opacity: 0;
     z-index: 1;
 }
