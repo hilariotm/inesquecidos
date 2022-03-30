@@ -11,3 +11,10 @@ body {
 #bm {
     width: 1024px;
 }
+
+.insta {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    margin: 150px;
+}
