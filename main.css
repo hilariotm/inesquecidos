@@ -16,7 +16,7 @@ body {
 
 #links {
     width: 1024px;
-    z-index: -1;
+    z-index: 1;
     position: absolute;
 }
 
