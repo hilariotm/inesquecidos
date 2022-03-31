@@ -70,6 +70,16 @@ audio {
     z-index: 1;
 }
 
+#vr {
+    width: 140px;
+    height: 50px;
+    position: relative;
+    top: -145px;
+    left: 916px;
+    opacity: 0;
+    z-index: 1;
+}
+
 #cita {
     width: 25px;
     height: 25px;
