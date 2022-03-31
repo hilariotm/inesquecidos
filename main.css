@@ -6,6 +6,7 @@ body, html {
 body {
     display: grid;
     justify-items: center;
+    background-color: #e7e7e7;
 }
 
 #bm {
@@ -26,8 +27,11 @@ body {
 }
 
 audio {
-    position: absolute;
-    top: 780px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: sticky;
+    top: 760px;
 }
 
 #insta {
