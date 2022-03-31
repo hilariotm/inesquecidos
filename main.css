@@ -9,33 +9,33 @@ body {
 }
 
 #bm {
-    width: 1024px;
+    width: 1300px;
     z-index: 0;
     position: absolute;
 }
 
 #mais {
-    width: 1024px;
+    width: 1300px;
     position: absolute;
 }
 
 #homenagem {
-    width: 1024px;
+    width: 1300px;
     z-index: 1;
     position: absolute;
 }
 
 audio {
     position: absolute;
-    top: 610px;
+    top: 780px;
 }
 
 #insta {
     width: 150px;
     height: 50px;
     position: relative;
-    top: 502px;
-    left: 50px;
+    top: 640px;
+    left: 67px;
     opacity: 0;
     z-index: 1;
 }
@@ -44,8 +44,8 @@ audio {
     width: 210px;
     height: 50px;
     position: relative;
-    top: 452px;
-    left: 260px;
+    top: 590px;
+    left: 329px;
     opacity: 0;
     z-index: 1;
 }
@@ -54,8 +54,8 @@ audio {
     width: 140px;
     height: 50px;
     position: relative;
-    top: 402px;
-    left: 520px;
+    top: 540px;
+    left: 663px;
     opacity: 0;
     z-index: 1;
 }
@@ -64,18 +64,18 @@ audio {
     width: 160px;
     height: 50px;
     position: relative;
-    top: 352px;
-    left: 812px;
+    top: 490px;
+    left: 1041px;
     opacity: 0;
     z-index: 1;
 }
 
 #vr {
     width: 140px;
-    height: 50px;
+    height: 100px;
     position: relative;
-    top: -145px;
-    left: 916px;
+    top: -127px;
+    left: 1160px;
     opacity: 0;
     z-index: 1;
 }
@@ -84,9 +84,9 @@ audio {
     width: 25px;
     height: 25px;
     position: relative;
-    top: 50px;
-    left: 626px;
-    opacity: 1;
+    top: 63px;
+    left: 790px;
+    opacity: 0;
     z-index: 1;
 }
 
@@ -94,8 +94,8 @@ audio {
     width: 25px;
     height: 25px;
     position: relative;
-    top: 25px;
-    left: 656px;
+    top: 38px;
+    left: 829px;
     opacity: 0;
     z-index: 1;
 }
@@ -104,8 +104,8 @@ audio {
     width: 25px;
     height: 25px;
     position: relative;
-    top: 0px;
-    left: 686px;
+    top: 13px;
+    left: 870px;
     opacity: 0;
     z-index: 1;
 }
